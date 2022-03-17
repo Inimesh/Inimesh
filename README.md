@@ -1,6 +1,6 @@
 ### Hey 👋 My name is Inigo.
 ---
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=Inimesh'/>
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=Inimesh&show_icons=true'/>
 
 Junior Software Developer.  
 London.
