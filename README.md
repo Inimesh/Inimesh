@@ -4,11 +4,10 @@
 
 Junior Software Developer.  
 London.
-
-🧠 I enjoy a challenge!  
-🌱 Interested in Sustainable Tech  
-🧪 Test-Driven Developer  
-⚡️ Currently learning React-Native  
+  
+⚡️ Typescript (Angular) Python (Django)   
+🧪 Unit/Integration Testing  
+🧠 Learning Astro/React and NextJS  
 📄 Check out my [**CV**](https://github.com/Inimesh/CV)  
 
 
