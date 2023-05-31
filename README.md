@@ -1,7 +1,6 @@
 ### Hey 👋 My name is Inigo.
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inimesh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=Inimesh&show_icons=true&theme=transparent'/>
 Junior Software Developer.  
 London.
   
