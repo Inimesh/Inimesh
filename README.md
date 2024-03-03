@@ -4,7 +4,7 @@ Junior Software Developer at <a href="https://housekeep.com/">Housekeep</a>, Lon
 
 📄 Check out my [**CV**](https://github.com/Inimesh/CV)  
   
-🛠️ Tools and skills
+🛠️ Languages and Tools
 ---
 <img height='20' width='20' src="https://cdn.simpleicons.org/python/3776AB" /> Python  
 <img height='20' width='20' src="https://cdn.simpleicons.org/django/092E20" /> Django  
