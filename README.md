@@ -14,8 +14,7 @@ Junior Software Developer at <a href="https://housekeep.com/">Housekeep</a>, Lon
 
 💡 Learning 
 ---
-<img height='20' width='20' src="https://cdn.simpleicons.org/astro/FF5D01" /> Astro  
-<img height='20' width='20' src="https://cdn.simpleicons.org/react/61DAFB" /> React  
+ <img height='20' width='20' src="https://cdn.simpleicons.org/go" /> Go    
 <img height='20' width='20' src="https://cdn.simpleicons.org/nextdotjs/000000" /> NextJS  
 <img height='20' width='20' src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /> Tailwind  
 
