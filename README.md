@@ -1,6 +1,6 @@
 ### Hey 👋 My name is Inigo.
 ---
-Junior Software Developer at <a href="https://housekeep.com/">Housekeep</a>, London.  
+Software Developer based in London.  
 
 📄 Check out my [**CV**](https://github.com/Inimesh/CV)  
   
