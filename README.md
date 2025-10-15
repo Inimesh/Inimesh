@@ -1,6 +1,6 @@
 <div align="center">
   <p style="text-align: center">
-    <span><h3>A passionate Fullstack Developer</h3></span>
+    <span><h1>Fullstack Developer</h1></span>
     <a style="vertical-align: middle" href="https://www.linkedin.com/in/inigo-meshoulam" target="blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="inigo-meshoulam" height="30" width="30" />
     </a>
