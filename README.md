@@ -8,7 +8,7 @@
 </div>
 
 - 📃 &nbsp; Check out my [**CV**](https://github.com/Inimesh/CV)
-- 🔭 &nbsp; I’m currently working on an automated C2C live auction site using a Go/Postgres backend and React frontend
+- 🔭 &nbsp; I’m currently working on an automated C2C live auction site using a Go/Postgres backend and React frontend. Demo coming soon!
 - 📫 &nbsp; Reach me at **ijmeshoulam@gmail.com**
 
 &nbsp;
